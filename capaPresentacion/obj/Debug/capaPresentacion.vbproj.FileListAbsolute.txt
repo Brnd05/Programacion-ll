@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.Resources.resources
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.vbproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\bin\Debug\capaPresentacion.xml
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.xml
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaPresentacion\obj\Debug\capaPresentacion.pdb

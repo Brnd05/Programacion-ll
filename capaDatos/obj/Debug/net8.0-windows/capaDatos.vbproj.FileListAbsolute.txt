@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\bin\Debug\net8.0-windows\capaDatos.deps.json
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\bin\Debug\net8.0-windows\capaDatos.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\bin\Debug\net8.0-windows\capaDatos.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\bin\Debug\net8.0-windows\capaEntidad.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\bin\Debug\net8.0-windows\capaEntidad.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.vbproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.AssemblyInfo.vb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.vbproj.Up2Date
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\refint\capaDatos.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\ref\capaDatos.dll

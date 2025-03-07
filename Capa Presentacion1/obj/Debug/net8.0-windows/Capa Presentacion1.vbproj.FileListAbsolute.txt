@@ -1,0 +1,70 @@
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Capa Presentacion1.exe
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Capa Presentacion1.deps.json
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Capa Presentacion1.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Capa Presentacion1.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Capa Presentacion1.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.vbproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.AssemblyInfo.vb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\refint\Capa Presentacion1.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\ref\Capa Presentacion1.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\capaDatos.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\capaEntidad.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\capaNegocio.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\capaDatos.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\capaEntidad.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\capaNegocio.pdb
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.vbproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Pre.83EF8F3A.Up2Date
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa_Presentacion1.FrEmpleado.resources
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
