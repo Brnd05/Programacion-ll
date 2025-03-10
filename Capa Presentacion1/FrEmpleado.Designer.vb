@@ -22,6 +22,7 @@ Partial Class FrEmpleado
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         TxtNombre = New TextBox()
         TxtApellido = New TextBox()
         nuId = New NumericUpDown()
@@ -34,8 +35,12 @@ Partial Class FrEmpleado
         BtnEliminar = New Button()
         BtnGuardar = New Button()
         OpenFoto = New OpenFileDialog()
+        dgvEmpleado = New DataGridView()
+        CDEmpleadoBindingSource = New BindingSource(components)
         CType(nuId, ComponentModel.ISupportInitialize).BeginInit()
         CType(PcFoto, ComponentModel.ISupportInitialize).BeginInit()
+        CType(dgvEmpleado, ComponentModel.ISupportInitialize).BeginInit()
+        CType(CDEmpleadoBindingSource, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' TxtNombre
@@ -139,11 +144,25 @@ Partial Class FrEmpleado
         ' 
         OpenFoto.FileName = "OpenFileDialog1"
         ' 
+        ' dgvEmpleado
+        ' 
+        dgvEmpleado.AllowUserToOrderColumns = True
+        dgvEmpleado.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        dgvEmpleado.Location = New Point(598, 49)
+        dgvEmpleado.Name = "dgvEmpleado"
+        dgvEmpleado.Size = New Size(406, 306)
+        dgvEmpleado.TabIndex = 11
+        ' 
+        ' CDEmpleadoBindingSource
+        ' 
+        CDEmpleadoBindingSource.DataSource = GetType(capaDatos.CDEmpleado)
+        ' 
         ' FrEmpleado
         ' 
         AutoScaleDimensions = New SizeF(7.0F, 15.0F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(1016, 477)
+        Controls.Add(dgvEmpleado)
         Controls.Add(BtnGuardar)
         Controls.Add(BtnEliminar)
         Controls.Add(BtnNuevo)
@@ -159,6 +178,8 @@ Partial Class FrEmpleado
         Text = "Form1"
         CType(nuId, ComponentModel.ISupportInitialize).EndInit()
         CType(PcFoto, ComponentModel.ISupportInitialize).EndInit()
+        CType(dgvEmpleado, ComponentModel.ISupportInitialize).EndInit()
+        CType(CDEmpleadoBindingSource, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -175,5 +196,7 @@ Partial Class FrEmpleado
     Friend WithEvents BtnEliminar As Button
     Friend WithEvents BtnGuardar As Button
     Friend WithEvents OpenFoto As OpenFileDialog
+    Friend WithEvents dgvEmpleado As DataGridView
+    Friend WithEvents CDEmpleadoBindingSource As BindingSource
 
 End Class

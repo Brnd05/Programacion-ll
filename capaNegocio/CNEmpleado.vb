@@ -24,4 +24,27 @@ Public Class CNEmpleado
     Public Sub Insertar(ByVal empleados As CEEMpleado)
         conexion.insertar(empleados)
     End Sub
+
+    Public Function Lista() As DataSet
+        Return conexion.Listar()
+    End Function
+
+    Public Function actualizar(ByVal obj As CEEMpleado)
+        conexion.update(obj)
+
+    End Function
+
+    Public Function borrar(ByVal obj As Integer)
+
+        If (MessageBox.Show("estas seguro", "pregunta",
+                            MessageBoxButtons.YesNo,
+                            MessageBoxIcon.Question
+                            )) = DialogResult.Yes Then
+            conexion.delete(obj)
+
+
+        End If
+
+    End Function
+
 End Class

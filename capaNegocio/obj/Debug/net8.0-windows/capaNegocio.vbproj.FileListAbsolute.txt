@@ -15,3 +15,4 @@ C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaNego
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaNegocio\obj\Debug\net8.0-windows\refint\capaNegocio.dll
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaNegocio\obj\Debug\net8.0-windows\capaNegocio.pdb
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaNegocio\obj\Debug\net8.0-windows\ref\capaNegocio.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaNegocio\obj\Debug\net8.0-windows\capaNegocio.sourcelink.json

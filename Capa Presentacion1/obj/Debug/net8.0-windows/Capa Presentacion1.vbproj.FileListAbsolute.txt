@@ -68,3 +68,4 @@ C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Pre
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\Capa Presentacion1\obj\Debug\net8.0-windows\Capa Presentacion1.sourcelink.json

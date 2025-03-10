@@ -51,6 +51,15 @@ Public Class FrEmpleado
         ElseIf Negocio.ValidadDatos(empleados) = True Then
             Negocio.Insertar(empleados)
         End If
+
+
+        If (empleados.IdEmpleado = 0) Then
+            Negocio.Insertar(empleados)
+        Else
+            Negocio.actualizar(empleados)
+        End If
+
+        cargarDatos()
     End Sub
 
 
@@ -59,6 +68,43 @@ Public Class FrEmpleado
     End Sub
 
     Private Sub BtnEliminar_Click(sender As Object, e As EventArgs) Handles BtnEliminar.Click
+        If (nuId.Value = 0) Then Exit Sub
+        Dim empleados As New CEEMpleado()
+        empleados.IdEmpleado = nuId.Value
+        Negocio.borrar(empleados.IdEmpleado)
+        cargarDatos()
+    End Sub
+
+
+    Private Sub cargarDatos()
+        Dim ds As New DataSet
+        ds = Negocio.Lista()
+
+        If ds IsNot Nothing AndAlso ds.Tables.Count > 0 Then
+            dgvEmpleado.DataSource = ds.Tables("empleados")
+        Else
+            MessageBox.Show("No hay datos")
+        End If
+    End Sub
+
+    'Private Sub dgvEmpleado_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvEmpleado.CellContentClick
+
+    'End Sub
+
+    Private Sub dgvEmpleado_CellDoubleClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvEmpleado.CellDoubleClick
+        TxtNombre.Text = dgvEmpleado.CurrentRow.Cells("nombre").Value
+        TxtApellido.Text = dgvEmpleado.CurrentRow.Cells("npellido").Value
+        nuId.Value = dgvEmpleado.CurrentRow.Cells("id").Value
+        PcFoto.Image = Nothing
+
+        If dgvEmpleado.CurrentRow.Cells("foto").Value <> "" Then
+            If System.IO.File.Exists(dgvEmpleado.CurrentRow.Cells("foto").Value) Then
+                PcFoto.Load(dgvEmpleado.CurrentRow.Cells("foto").Value)
+            End If
+        End If
+    End Sub
+
+    Private Sub nuId_ValueChanged(sender As Object, e As EventArgs) Handles nuId.ValueChanged
 
     End Sub
 End Class

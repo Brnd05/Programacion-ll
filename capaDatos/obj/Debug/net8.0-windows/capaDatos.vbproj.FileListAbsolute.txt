@@ -13,3 +13,4 @@ C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDato
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\refint\capaDatos.dll
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.pdb
 C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\ref\capaDatos.dll
+C:\Users\PC\OneDrive\Documentos\Programacion ll\IntroduccionVisualBasic\capaDatos\obj\Debug\net8.0-windows\capaDatos.sourcelink.json
